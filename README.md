@@ -1,8 +1,8 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: Akash Ganesamurthy
 
-Northeastern ID: Enter your Northeastern ID
+Northeastern ID: 002124475
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
